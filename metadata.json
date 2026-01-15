@@ -3,5 +3,11 @@
   "symbol": "PUGY",
   "description": "$PUGY is a community-driven Solana token with fixed supply, fair distribution, and 0% taxes. Built for transparency, simplicity, and long-term community growth.",
   "image": "https://raw.githubusercontent.com/PUGYofficial/PUGY/main/PUGY_Logo.png",
-  "decimals": 6
+  "decimals": 6,
+  "external_url": "https://www.pugy.io",
+  "extensions": {
+    "website": "https://www.pugy.io",
+    "twitter": "https://x.com/PUGYofficial",
+    "telegram": "https://t.me/PUGYofficial"
+  }
 }
